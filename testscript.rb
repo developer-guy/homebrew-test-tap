@@ -11,6 +11,4 @@ class Testscript < Formula
   def install
     bin.install "testscript"
   end
-  
-  end
 end
